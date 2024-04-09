@@ -1,0 +1,12 @@
+node_modules
+history
+myenv
+pkl
+report
+dataset
+.history
+models
+old
+package-lock.json
+package.json
+figures
